@@ -19,22 +19,6 @@ This repository contains two solved problems:
 
 ---
 
-## 🚀 How To Use
-
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
-    ```
-2.  **Navigate to the folder:**
-    ```bash
-    cd your-repository-name
-    ```
-3.  **View the solutions:**
-    * Open the `temp1.html` and `interestcompounded.html` files in any web browser to see the final output.
-    * Make sure the image files (`arrow.png`, `interesticon.png`) are in the same directory for them to display correctly.
-
----
-
 ## 🛠️ Technologies Used
 
 * **HTML5:** For the structure and content of the web pages.
